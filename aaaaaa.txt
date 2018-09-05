@@ -6,3 +6,4 @@ git commit -m"comment"
 git checkout -- filename
 git config --list
 git log
+git --global core.editor"'path'-multiInst -notabbar -nosession -noPlugin"
