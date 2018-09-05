@@ -7,4 +7,7 @@ git checkout -- filename
 git config --list
 git log
 git --global core.editor"'path'-multiInst -notabbar -nosession -noPlugin"
-branch master
+git checkout -b branchname
+git branch branchname
+git branch,git branch -v
+git checkout branchname
