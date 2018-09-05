@@ -5,3 +5,4 @@ git rm --cached filename
 git commit -m"comment"
 git checkout -- filename
 git config --list
+git log
