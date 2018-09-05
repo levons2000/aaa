@@ -1,1 +1,7 @@
-aaa
+git init
+git status --untracked-files=(normal,all)
+git add .,filename,"*.type"
+git rm --cached filename
+git commit -m"comment"
+git checkout -- filename
+git config --list
